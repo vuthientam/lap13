@@ -1,0 +1,21 @@
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/1.jpg");
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/2.jpg");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("image/3.jpg");
+}
